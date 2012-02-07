@@ -1,0 +1,3 @@
+[code] [status] [seed] [redirect]
+200 CRAWLED http://www.bjfu.edu.cn/
+200 CRAWLED http://www.bjfu.edu.cn/index.htm

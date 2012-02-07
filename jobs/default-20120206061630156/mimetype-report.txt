@@ -1,0 +1,10 @@
+[#urls] [#bytes] [mime-types]
+117 757896 text/html
+97 1489566 image/gif
+45 3230103 image/jpeg
+17 142690 image/png
+10 753 text/dns
+7 201204 application/x-javascript
+7 44848 text/css
+3 6074 text/plain
+2 12411 application/x-shockwave-flash

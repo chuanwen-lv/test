@@ -1,0 +1,12 @@
+
+ -----===== IN-PROCESS QUEUES =====-----
+
+ -----===== READY QUEUES =====-----
+
+ -----===== SNOOZED QUEUES =====-----
+queue currentSize totalEnqueues sessionBalance lastCost (averageCost) lastDequeueTime wakeTime totalSpend/totalBudget errorCount lastPeekUri lastQueuedUri
+www.bjfu.edu.cn 74 279 3000 0(0) 2012-02-06T06:37:28.015Z 15s672ms 0/-1 0 http://www.bjfu.edu.cn/english/images/gr3.jpg http://www.bjfu.edu.cn/images/content/2010/20100518102222962810.jpg
+
+ -----===== INACTIVE QUEUES =====-----
+
+ -----===== RETIRED QUEUES =====-----

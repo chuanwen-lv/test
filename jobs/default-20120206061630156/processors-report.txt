@@ -1,0 +1,35 @@
+Processors report - 201202060637
+  Job being crawled:    default
+  Number of Processors: 13
+  NOTE: Some processors may not return a report!
+
+Processor: org.archive.crawler.fetcher.FetchHTTP
+  Function:          Fetch HTTP URIs
+  CrawlURIs handled: 295
+  Recovery retries:   0
+
+Processor: org.archive.crawler.extractor.ExtractorHTTP
+  Function:          Extracts URIs from HTTP response headers
+  CrawlURIs handled: 295
+  Links extracted:   8
+
+Processor: org.archive.crawler.extractor.ExtractorHTML
+  Function:          Link extraction on HTML documents
+  CrawlURIs handled: 108
+  Links extracted:   3229
+
+Processor: org.archive.crawler.extractor.ExtractorCSS
+  Function:          Link extraction on Cascading Style Sheets (.css)
+  CrawlURIs handled: 7
+  Links extracted:   57
+
+Processor: org.archive.crawler.extractor.ExtractorJS
+  Function:          Link extraction on JavaScript code
+  CrawlURIs handled: 7
+  Links extracted:   19
+
+Processor: org.archive.crawler.extractor.ExtractorSWF
+  Function:          Link extraction on Shockwave Flash documents (.swf)
+  CrawlURIs handled: 2
+  Links extracted:   26
+

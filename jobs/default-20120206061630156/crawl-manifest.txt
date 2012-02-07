@@ -1,0 +1,13 @@
+L+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\logs\crawl.log
+L+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\logs\runtime-errors.log
+L+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\logs\local-errors.log
+L+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\logs\uri-errors.log
+L+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\logs\progress-statistics.log
+C+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\order.xml
+C+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\seeds.txt
+R+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\hosts-report.txt
+R+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\mimetype-report.txt
+R+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\responsecode-report.txt
+R+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\seeds-report.txt
+R+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\crawl-report.txt
+R+ C:\Documents and Settings\Administrator\Workspaces\MyEclipse 8.5\MyHeritrix\jobs\default-20120206061630156\processors-report.txt

@@ -1,0 +1,3 @@
+http://www.bjfu.edu.cn/
+# Heritrix added seed redirect from http://www.bjfu.edu.cn/ 20120206061926203.
+http://www.bjfu.edu.cn/index.htm

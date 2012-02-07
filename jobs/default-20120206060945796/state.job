@@ -1,0 +1,15 @@
+20120206060945796
+default
+Deleted
+false
+false
+2
+0
+order.xml
+
+A fatal InitializationException occured when loading job:
+On crawl: default You must set the User-Agent and From HTTP header values to acceptable strings. 
+ User-Agent: [software-name](+[info-url])[misc]
+ From: [email-address]
+
+
